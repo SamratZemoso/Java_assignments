@@ -1,0 +1,10 @@
+
+t
+java:S1450"YRemove the "matchFiles" field and declare it as a local variable in the relevant methods.(¿ Ñáùÿÿÿÿ
+j
+java:S1450"TRemove the "queue" field and declare it as a local variable in the relevant methods.(¾¬²á
+j
+java:S1450"TRemove the "regex" field and declare it as a local variable in the relevant methods.(ÐÙ¡œ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(â ›Ðúÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(œšþÈøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùé©îüÿÿÿÿ

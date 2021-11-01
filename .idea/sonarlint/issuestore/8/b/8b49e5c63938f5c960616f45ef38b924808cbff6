@@ -1,0 +1,14 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(Þ¸áÔÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(çôž¯úÿÿÿÿ
+u
+java:S3008	"ZRename this field "TOTAL_ALPHABETS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØ‡”þÿÿÿÿ
+x
+java:S1450
+"]Remove the "storeAlphabets" field and declare it as a local variable in the relevant methods.(Þ¸áÔÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ð”£³ÿÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(Ãóœ`
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ç€Œ

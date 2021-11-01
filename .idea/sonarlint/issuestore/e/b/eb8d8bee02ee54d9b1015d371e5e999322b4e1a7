@@ -1,0 +1,17 @@
+
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+m
+java:S1104	"RMake gender a static final constant or non-public and provide accessors if needed.(×¾“æùÿÿÿÿ
+i
+java:S1104
+"SMake engDept a static final constant or non-public and provide accessors if needed.(Ö“ºÈ
+s
+java:S1104"XMake yearOfEnroll a static final constant or non-public and provide accessors if needed.(ğçÅøÿÿÿÿ
+m
+java:S1104"WMake perTillDate a static final constant or non-public and provide accessors if needed.(ÙŠ¡¨
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ƒÑá

@@ -1,0 +1,14 @@
+
+L
+java:S1659"*Declare "sumOfFemales" on a separate line.( Õˆ”ıÿÿÿÿ8‡ÅÖÍ/
+J
+java:S1659"(Declare "avgFemales" on a separate line.(úßÙûÿÿÿÿ8‰ÅÖÍ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á§»ƒøÿÿÿÿ8‘ÅÖÍ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(óï…ıÿÿÿÿ8“ÅÖÍ/
+’
+java:S1319"uThe type of the "studentArr" object should be an interface such as "List" rather than the implementation "ArrayList".(‘úÂ¶8µìÃÖÍ/
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(úßÙûÿÿÿÿ8˜ÅÖÍ/
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(úßÙûÿÿÿÿ8™ÅÖÍ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ƒÑá
